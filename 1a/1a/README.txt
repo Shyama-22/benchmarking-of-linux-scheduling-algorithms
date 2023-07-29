@@ -1,0 +1,3 @@
+This program basically does that it creates threads / execs and hence creates different processes of those processsed we set a priority and the scheduling type , as priority increases the time to complete decreases while as priority decreases the time to complete increases there changes are mapped using histograms
+
+for part B we create bash scripts to that the command run is the compiation of the kernel and measure the time of them with varied priorities.we then measure the time using the clock functions and compare them . 
